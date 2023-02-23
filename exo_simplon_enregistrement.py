@@ -39,7 +39,7 @@ def rechercheEtudiant():
 
 
 def menu():
-    print("1- Ajouter mariam !")
+    print("1- Ajouter un nom !")
     print("2- Rechercher un etudiant !")
     print("3- voir la liste des etudiants !")
     print("4- Quitter!")
