@@ -1,5 +1,6 @@
 from datetime import datetime
 
+# okobe a effectuer une modification
 
 f = open("listEtudiant.txt","a")
 f.close()
